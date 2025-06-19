@@ -8,7 +8,7 @@
 > **Sistema automatizado para detección temprana de retinopatía diabética mediante técnicas avanzadas de computer vision y deep learning**
 
 <div align="center">
- <img src="https://drive.google.com/file/d/1SSCzyMbr7bhXLqMb7REMks0Vq7NfwCOc/view?usp=sharing" alt="Pipeline Overview" width="800"/>
+ <img src="Flujo_DR.drawio.png" alt="Pipeline Overview" width="800"/>
 </div>
 
 ## 🎯 Descripción del Proyecto
